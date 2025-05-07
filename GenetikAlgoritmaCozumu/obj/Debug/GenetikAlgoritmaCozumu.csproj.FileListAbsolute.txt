@@ -1,0 +1,10 @@
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.csproj.AssemblyReference.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.Properties.Resources.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.csproj.GenerateResource.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.csproj.CoreCompileInputs.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.Form1.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\bin\Debug\GenetikAlgoritmaCozumu.exe.config
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\bin\Debug\GenetikAlgoritmaCozumu.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\bin\Debug\GenetikAlgoritmaCozumu.pdb
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\GenetikAlgoritmaCozumu\GenetikAlgoritmaCozumu\obj\Debug\GenetikAlgoritmaCozumu.pdb
